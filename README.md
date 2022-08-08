@@ -15,5 +15,5 @@ This function is to add one element at end of the queue
 ### to_string()
 This functino is to show all the elements in the queue in the the following format
 
-Queue - Size = (the size of the queue) \n
+Queue - Size = (the size of the queue)  <br />
 data : (the elements in the queue)
